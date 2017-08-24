@@ -1,9 +1,12 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
-## Current iteration
+## v0.4.0-beta.2 - 2017-08-24
 ### Breaking changes
 - **packaging:** merge public API into a single repository
+
+### Bug fixes
+- **state-transfer:** correct http post & patch method params ([61c0c02](https://github.com/fulls1z3/ngx-universal/commit/61c0c02))
 
 ## v0.4.0-beta.1 - 2017-04-28
 ### Breaking changes
