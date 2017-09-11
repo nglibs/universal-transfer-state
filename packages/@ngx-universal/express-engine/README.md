@@ -2,7 +2,7 @@
 Express engine for **Angular Universal**
 
 #### DEPRECATION WARNING
-The official[@ng-universal/express-engine] is out and **runs OK**, so this library is no longer maintained and **deprecated**.
+The official [@ng-universal/express-engine] is out and **runs OK**, so this library is no longer maintained and **deprecated**.
 
 ## <a name="license"></a> License
 The MIT License (MIT)
