@@ -28,7 +28,7 @@
     "release": "standard-version"
   },
   "devDependencies": {
-    "@angular/animations": "~4.4.4",
+    "@angular/animations": "~5.0.0",
     "@angular/common": "~4.4.4",
     "@angular/compiler": "~4.4.4",
     "@angular/compiler-cli": "~4.4.4",
